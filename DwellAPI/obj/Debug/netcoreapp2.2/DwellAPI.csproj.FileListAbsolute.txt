@@ -1,0 +1,14 @@
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\bin\Debug\netcoreapp2.2\DwellAPI.deps.json
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\bin\Debug\netcoreapp2.2\DwellAPI.runtimeconfig.json
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\bin\Debug\netcoreapp2.2\DwellAPI.runtimeconfig.dev.json
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\bin\Debug\netcoreapp2.2\DwellAPI.dll
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.csprojAssemblyReference.cache
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.csproj.CoreCompileInputs.cache
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.RazorAssemblyInfo.cache
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.RazorAssemblyInfo.cs
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.AssemblyInfoInputs.cache
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.AssemblyInfo.cs
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.RazorTargetAssemblyInfo.cache
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\bin\Debug\netcoreapp2.2\DwellAPI.pdb
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.dll
+C:\Users\nickk\source\repos\DwellAPI\DwellAPI\obj\Debug\netcoreapp2.2\DwellAPI.pdb

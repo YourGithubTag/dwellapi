@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DwellAPI", "DwellAPI\DwellAPI.csproj", "{A83272BA-7627-4DDC-9BC8-BF2D0894EFAE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A83272BA-7627-4DDC-9BC8-BF2D0894EFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A83272BA-7627-4DDC-9BC8-BF2D0894EFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A83272BA-7627-4DDC-9BC8-BF2D0894EFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A83272BA-7627-4DDC-9BC8-BF2D0894EFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7DCB47A8-DF7B-4256-8113-BA46B0EBA09A}
+	EndGlobalSection
+EndGlobal
